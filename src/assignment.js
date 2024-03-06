@@ -84,7 +84,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
         result.push(fahrenheitTemperatures);
         
     }
-
+    
     return result;
 }
 
